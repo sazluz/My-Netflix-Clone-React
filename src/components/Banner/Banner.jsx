@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import styles from "./Banner.module.css";
+import styles from "./banner.module.css";
 import requests from "../../utils/requests";
 import axios from "../../utils/axios";
 
